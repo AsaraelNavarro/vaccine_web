@@ -3,12 +3,12 @@
   "description": "Parcel starter template",
   "author": "Karvackyy Roma",
   "license": "MIT",
-  "homepage": "https://yesnoruly.github.io/parcel-start",
+  "homepage": "https://asaraelnavarro.github.io/vaccine_web",
   "version": "0.0.0",
   "source": "src/index.html",
   "scripts": {
     "dev": "parcel",
-    "build": "parcel build src/*.html --public-url /parcel-start/"
+    "build": "parcel build src/*.html --public-url /vaccine_web"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
@@ -28,3 +28,4 @@
     "url": "https://github.com/yesnoruly/parcel-start/issues"
   }
 }
+
