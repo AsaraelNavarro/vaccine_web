@@ -1,0 +1,4 @@
+"homepage": "https://asaraelnavarro.github.io/vaccine_web",
+"scripts": {
+    "build": "parcel build src/*.html --public-url /vaccine_web/"
+}

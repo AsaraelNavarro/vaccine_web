@@ -1,0 +1,30 @@
+{
+  "name": "parcel-start",
+  "description": "Parcel starter template",
+  "author": "Karvackyy Roma",
+  "license": "MIT",
+  "homepage": "https://yesnoruly.github.io/parcel-start",
+  "version": "0.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build src/*.html --public-url /parcel-start/"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "parcel": "^2.0.0",
+    "postcss": "^8.4.8",
+    "postcss-import": "^14.0.2",
+    "posthtml-include": "^1.7.2",
+    "prettier": "^2.5.1",
+    "prettier-plugin-tailwindcss": "^0.1.8",
+    "tailwindcss": "^3.0.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesnoruly/parcel-start.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yesnoruly/parcel-start/issues"
+  }
+}
