@@ -1,10 +1,14 @@
-5974
+5975
 73D:\Git\vaccine_web\node_modules\postcss-minify-selectors\types\index.d.ts132916132384648097 0
 32D:\Git\vaccine_web\.editorconfig132837875230000000 0
 82D:\Git\vaccine_web\node_modules\posthtml-include\node_modules\posthtml-parser\dist132997221025050419 1
 66D:\Git\vaccine_web\node_modules\tailwindcss\lib\util\cloneNodes.js132916133119991574 0
 55D:\Git\vaccine_web\node_modules\utility-types\README.md132916132391684459 0
 33D:\Git\vaccine_web\.posthtmlrc.js132837875230000000 0
+80D:\Git\vaccine_web\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js132916132375875690 0
+76D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\iframe-sandbox.js132916132517561396 0
+81D:\Git\vaccine_web\node_modules\posthtml-include\node_modules\posthtml-render\lib132997221026425988 1
+39D:\Git\vaccine_web\node_modules\@parcel132997220502989547 1
 97D:\Git\vaccine_web\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\source.js132916132438037333 0
 67D:\Git\vaccine_web\node_modules\tailwindcss\lib\util\pluginUtils.js132916133127299481 0
 63D:\Git\vaccine_web\node_modules\caniuse-lite\data\regions\NR.js132916132539221814 0
@@ -23,15 +27,11 @@
 63D:\Git\vaccine_web\node_modules\svgo\lib\svgo\css-class-list.js132916132407123853 0
 66D:\Git\vaccine_web\node_modules\css-select\lib\attributes.d.ts.map132916132396644978 0
 64D:\Git\vaccine_web\node_modules\resolve\test\pathfilter\deep_ref132997221084146267 1
-80D:\Git\vaccine_web\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js132916132375875690 0
-76D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\iframe-sandbox.js132916132517561396 0
-81D:\Git\vaccine_web\node_modules\posthtml-include\node_modules\posthtml-render\lib132997221026425988 1
-39D:\Git\vaccine_web\node_modules\@parcel132997220502989547 1
 71D:\Git\vaccine_web\node_modules\@parcel\transformer-babel\src\config.js132916132386793659 0
 74D:\Git\vaccine_web\node_modules\posthtml-include\node_modules\entities\lib132997221016278921 1
 62D:\Git\vaccine_web\node_modules\detective\test\sparse-array.js132916133120181050 0
 74D:\Git\vaccine_web\node_modules\@parcel\core\src\serializerCore.browser.js132916132457708822 0
-23D:\Git\vaccine_web\dist132997224772292565 1
+23D:\Git\vaccine_web\dist132997232696677341 1
 72D:\Git\vaccine_web\node_modules\resolve\test\resolver\browser_field\b.js132916132398193613 0
 53D:\Git\vaccine_web\node_modules\dotenv-expand\LICENSE132916132370864698 0
 55D:\Git\vaccine_web\node_modules\nanoid\index.browser.js132916132388614830 0
@@ -67,7 +67,7 @@
 64D:\Git\vaccine_web\node_modules\resolve\test\resolver\same_names132997221088466409 1
 73D:\Git\vaccine_web\node_modules\@parcel\reporter-dev-server\src\templates132997220404496368 1
 70D:\Git\vaccine_web\node_modules\postcss-normalize-unicode\package.json132916132368262913 0
-29D:\Git\vaccine_web\deploy.yml132997224459776882 0
+29D:\Git\vaccine_web\deploy.yml132997232564852344 0
 37D:\Git\vaccine_web\CODE_OF_CONDUCT.md132837875230000000 0
 69D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\history.js132916132512854664 0
 51D:\Git\vaccine_web\node_modules\resolve\bin\resolve132916132377700055 0
@@ -103,10 +103,8 @@
 65D:\Git\vaccine_web\node_modules\tailwindcss\lib\util\cloneDeep.js132916133119931711 0
 79D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\keyboardevent-key.js132916132523846572 0
 43D:\Git\vaccine_web\src\partials\header.html132929899008981834 0
-88D:\Git\vaccine_web\node_modules\posthtml-include\node_modules\htmlparser2\lib\index.d.ts132916132401528585 0
-49D:\Git\vaccine_web\node_modules\tailwindcss\stubs132997221159902840 1
 74D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\input-search.js132916132520890917 0
-31D:\Git\vaccine_web\package.json132916135525448097 0
+31D:\Git\vaccine_web\package.json132997229237369267 0
 70D:\Git\vaccine_web\node_modules\htmlnano\docs\docs\010-introduction.md132916132429389239 0
 39D:\Git\vaccine_web\node_modules\resolve132997221077044085 1
 60D:\Git\vaccine_web\node_modules\is-core-module\test\index.js132916132374000377 0
@@ -121,6 +119,14 @@
 52D:\Git\vaccine_web\node_modules\.bin\tailwindcss.ps1132916133129964226 0
 64D:\Git\vaccine_web\node_modules\yaml\dist\resolveSeq-d03cb037.js132916132412577744 0
 36D:\Git\vaccine_web\postcss.config.js132917926190164475 0
+55D:\Git\vaccine_web\node_modules\yaml\types\timestamp.js132916132421420793 0
+53D:\Git\vaccine_web\node_modules\minimist\test\dash.js132916132371627074 0
+56D:\Git\vaccine_web\node_modules\postcss\lib\at-rule.d.ts132916132413499802 0
+25D:\Git\vaccine_web\public132997233811277001 1
+70D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\css-sel2.js132916132484153308 0
+67D:\Git\vaccine_web\node_modules\@parcel\reporter-dev-server\LICENSE132916132363935442 0
+84D:\Git\vaccine_web\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi88.node132916132439862150 0
+45D:\Git\vaccine_web\node_modules\parent-module132997220941247844 1
 37D:\Git\vaccine_web\node_modules\json5132997220850609552 1
 70D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\css-grid.js132916132467948335 0
 50D:\Git\vaccine_web\node_modules\picomatch\index.js132916133115128012 0
@@ -748,12 +754,6 @@
 46D:\Git\vaccine_web\node_modules\ordered-binary132997220938791467 1
 47D:\Git\vaccine_web\node_modules\globals\license132916132363535358 0
 57D:\Git\vaccine_web\node_modules\postcss-merge-rules\types132997220978614511 1
-67D:\Git\vaccine_web\node_modules\@parcel\reporter-dev-server\LICENSE132916132363935442 0
-84D:\Git\vaccine_web\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi88.node132916132439862150 0
-45D:\Git\vaccine_web\node_modules\parent-module132997220941247844 1
-55D:\Git\vaccine_web\node_modules\yaml\types\timestamp.js132916132421420793 0
-53D:\Git\vaccine_web\node_modules\minimist\test\dash.js132916132371627074 0
-56D:\Git\vaccine_web\node_modules\postcss\lib\at-rule.d.ts132916132413499802 0
 75D:\Git\vaccine_web\node_modules\type-fest\source\union-to-intersection.d.ts132916132418517927 0
 58D:\Git\vaccine_web\node_modules\queue-microtask\index.d.ts132916133116048560 0
 65D:\Git\vaccine_web\node_modules\tailwindcss\lib\util\dataTypes.js132916133124020585 0
@@ -1578,6 +1578,8 @@
 62D:\Git\vaccine_web\node_modules\tailwindcss\prettier.config.js132916133127335606 0
 76D:\Git\vaccine_web\node_modules\postcss-merge-longhand\src\lib\canExplode.js132916132376995096 0
 55D:\Git\vaccine_web\node_modules\tailwindcss\screens.css132916133117521698 0
+88D:\Git\vaccine_web\node_modules\posthtml-include\node_modules\htmlparser2\lib\index.d.ts132916132401528585 0
+49D:\Git\vaccine_web\node_modules\tailwindcss\stubs132997221159902840 1
 92D:\Git\vaccine_web\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased132997220371394507 1
 92D:\Git\vaccine_web\node_modules\posthtml-include\node_modules\htmlparser2\lib\index.d.ts.map132916132390450416 0
 86D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js132916132532924682 0
@@ -1837,9 +1839,9 @@
 56D:\Git\vaccine_web\node_modules\postcss-svgo\LICENSE-MIT132916132362865927 0
 71D:\Git\vaccine_web\node_modules\css-tree\lib\syntax\node\Declaration.js132916132420422412 0
 80D:\Git\vaccine_web\node_modules\tailwindcss\lib\postcss-plugins\nesting\index.js132916133126137666 0
+53D:\Git\vaccine_web\node_modules\msgpackr\iterators.js132916132384598223 0
 53D:\Git\vaccine_web\node_modules\@babel\code-frame\lib132997220292830375 1
 81D:\Git\vaccine_web\node_modules\tailwindcss\lib\postcss-plugins\nesting\plugin.js132916133127249607 0
-53D:\Git\vaccine_web\node_modules\msgpackr\iterators.js132916132384598223 0
 79D:\Git\vaccine_web\node_modules\@parcel\core\src\requests\BundleGraphRequest.js132916132423160468 0
 73D:\Git\vaccine_web\node_modules\stylehacks\types\dictionary\browsers.d.ts132916132409503563 0
 79D:\Git\vaccine_web\node_modules\stylehacks\types\plugins\leadingUnderscore.d.ts132916132416780042 0
@@ -4163,8 +4165,8 @@
 93D:\Git\vaccine_web\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js132916132370974403 0
 49D:\Git\vaccine_web\node_modules\cssnano\README.md132916132371834758 0
 51D:\Git\vaccine_web\node_modules\css-tree\lib\syntax132997220744244779 1
-43D:\Git\vaccine_web\node_modules\cssnano\src132997220750767975 1
 73D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\text-stroke.js132916132560956817 0
+43D:\Git\vaccine_web\node_modules\cssnano\src132997220750767975 1
 45D:\Git\vaccine_web\node_modules\cssnano\types132997220750877876 1
 42D:\Git\vaccine_web\node_modules\cssesc\bin132997220749585170 1
 48D:\Git\vaccine_web\node_modules\cssesc\cssesc.js132916132364687577 0
@@ -4659,7 +4661,6 @@
 71D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\mpeg-dash.js132916132535110271 0
 81D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\css-scroll-behavior.js132916132483922695 0
 81D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\css-scroll-timeline.js132916132484034957 0
-70D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\css-sel2.js132916132484153308 0
 83D:\Git\vaccine_web\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js132916132404002900 0
 75D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\css-selection.js132916132484183251 0
 81D:\Git\vaccine_web\node_modules\caniuse-lite\data\features\css-text-align-last.js132916132485072725 0
@@ -5964,7 +5965,7 @@
 42D:\Git\vaccine_web\dist\index.4ee4707b.css132929908199147166 0
 42D:\Git\vaccine_web\dist\index.d26d6898.css132997224772252575 0
 45D:\Git\vaccine_web\dist\index.d9d33ac3.js.map132997224772252575 0
-34D:\Git\vaccine_web\dist\index.html132997224772252575 0
+34D:\Git\vaccine_web\dist\index.html132997232696627610 0
 43D:\Git\vaccine_web\dist\parcel.3b831118.svg132929908200119747 0
 43D:\Git\vaccine_web\dist\parcel.51367e0f.svg132997222720536913 0
 43D:\Git\vaccine_web\dist\Pfizer.72fc1a8a.png132997222719706889 0

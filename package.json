@@ -8,7 +8,7 @@
   "source": "src/index.html",
   "scripts": {
     "dev": "parcel",
-    "build": "parcel build src/*.html --public-url /vaccine_web"
+    "build": "parcel build src/*.html --public-url /vaccine_web/"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
